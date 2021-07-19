@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">imcapp</string>
+    <!--app_name se refere ao nome abaixo do icon do app-->
+    <string name="hello_world">Hello World</string>
+    <string name="olaradio">Olá radiobuttom</string>
+    <string name="olacheckbox">Olá checkbox</string>
+    <string name="hint_altura">Altura (ex.: 1.78 m)</string>
+    <string name="text_calcular">CALCULAR</string>
+    <string name="hint_peso">Peso (ex.: 65.8 Kg)</string>
+</resources>

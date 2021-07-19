@@ -1,0 +1,2 @@
+rootProject.name = "imcapp"
+include ':app'
